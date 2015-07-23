@@ -1,0 +1,74 @@
+{
+	"packages":
+	[
+		{
+			"name": "Olimex",
+			"maintainer": "Olimex LTD",
+			"websiteURL": "https://www.olimex.com/",
+			"help":
+			{
+				"online": "https://www.olimex.com/forum"
+			},
+
+			"platforms":
+			[
+				{
+					"name": "Olimex boards",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "Contributed",
+					"help":
+					{
+						"online": "https://www.olimex.com/forum/index.php?board=5.0"
+					},
+					"url": "https://github.com/Stanimir-Petev/Arduino-Test/raw/master/Olimex-1.0.0.zip",
+					"archiveFileName": "Olimex-1.0.0.zip",
+					"checksum": "SHA-256:890b75d0df4d52738d3562fd885c6ae7943dfad45bbc599d8d5f3c01b4768645",
+					"size": "144752",
+					"boards":
+					[
+						{"name": "Olimexino-328"},
+						{"name": "Olimexino-32U4"},
+						{"name": "RGB-Glasses"}
+					],
+					"toolsDependencies":
+					[
+						{
+							"packager": "arduino",
+							"name": "avr-gcc",
+							"version": "4.8.1-arduino5"
+						},
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.0.1-arduino5"
+						},
+						{
+							"packager": "Olimex",
+							"name": "micronucleus",
+							"version": "1.0.0"
+						}
+					]
+				}
+			],
+
+			"tools":
+			[
+				{
+					"name": "micronucleus",
+					"version": "1.0.0",
+					"systems":
+					[
+						{
+							"host": "i686-mingw32",
+							"archiveFileName": "Micronucleus.zip",
+							"url": "https://github.com/Stanimir-Petev/Arduino-Test/raw/master/Micronucleus.zip",
+							"checksum": "SHA-256:4ed242d2d3dfbee0c511ef8581d0a56fb613d36f5f1a16e9227e0ea891c9fffb",
+							"size": "397301"
+						}
+					]
+				}
+			]
+		}
+	]
+}
