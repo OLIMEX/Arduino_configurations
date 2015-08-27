@@ -49,6 +49,46 @@
 							"version": "1.0.0"
 						}
 					]
+				},
+				
+				{
+					"name": "Olimex boards",
+					"architecture": "avr",
+					"version": "1.1.0",
+					"category": "Contributed",
+					"help":
+					{
+						"online": "https://www.olimex.com/forum/index.php?board=5.0"
+					},
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/test/Olimex-1.1.0.zip",
+					"archiveFileName": "Olimex-1.1.0.zip",
+					"checksum": "SHA-256:4cf3a161ec0a6a2b048e3bdeb151638dae458d3c3a518d543909075b64d47992",
+					"size": "148814",
+					"boards":
+					[
+						{"name": "Olimexino-328"},
+						{"name": "Olimexino-32U4"},
+						{"name": "Olimexino-85"},
+						{"name": "RGB-Glasses"}
+					],
+					"toolsDependencies":
+					[
+						{
+							"packager": "arduino",
+							"name": "avr-gcc",
+							"version": "4.8.1-arduino5"
+						},
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.0.1-arduino5"
+						},
+						{
+							"packager": "Olimex",
+							"name": "micronucleus",
+							"version": "1.0.0"
+						}
+					]
 				}
 			],
 
