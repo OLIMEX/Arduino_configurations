@@ -21,7 +21,7 @@
 					{
 						"online": "https://www.olimex.com/forum/index.php?board=5.0"
 					},
-					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/test/Olimex-1.0.0.zip",
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex-1.0.0.zip",
 					"archiveFileName": "Olimex-1.0.0.zip",
 					"checksum": "SHA-256:890b75d0df4d52738d3562fd885c6ae7943dfad45bbc599d8d5f3c01b4768645",
 					"size": "144752",
@@ -60,7 +60,7 @@
 					{
 						"online": "https://www.olimex.com/forum/index.php?board=5.0"
 					},
-					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/test/Olimex-1.1.0.zip",
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex-1.1.0.zip",
 					"archiveFileName": "Olimex-1.1.0.zip",
 					"checksum": "SHA-256:4cf3a161ec0a6a2b048e3bdeb151638dae458d3c3a518d543909075b64d47992",
 					"size": "148814",
@@ -100,7 +100,7 @@
 					{
 						"online": "https://www.olimex.com/forum/index.php?board=5.0"
 					},
-					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/test/Olimex-1.1.1.zip",
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex-1.1.1.zip",
 					"archiveFileName": "Olimex-1.1.1.zip",
 					"checksum": "SHA-256:b108f4628bcd2994a850ad696c2a4ad73b440cc2e3d48699fdbcff4becbb9b9c",
 					"size": "180413",
@@ -142,7 +142,7 @@
 						{
 							"host": "i686-mingw32",
 							"archiveFileName": "Micronucleus.zip",
-							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/test/micronucleus.zip",
+							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/micronucleus.zip",
 							"checksum": "SHA-256:4ed242d2d3dfbee0c511ef8581d0a56fb613d36f5f1a16e9227e0ea891c9fffb",
 							"size": "397301"
 						}
