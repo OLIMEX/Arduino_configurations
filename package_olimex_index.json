@@ -250,7 +250,7 @@
 							"size": "15017380"
 						},
 						{
-							"host": "i386-apple-darvin",
+							"host": "i386-apple-darwin",
 							"archiveFileName": "micronucleus.tar.gz",
 							"url": "https://github.com/Ignat99/Arduino_configurations/raw/master/micronucleus.tar.gz",
 							"checksum": "SHA-256:32f0fe8bc4c9676df825b1dcf7e0ba4628def44752b509d2c1274b9961ed995b",
