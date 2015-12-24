@@ -228,6 +228,20 @@
 							"checksum": "SHA-256:4ed242d2d3dfbee0c511ef8581d0a56fb613d36f5f1a16e9227e0ea891c9fffb",
 							"size": "397301"
 						}
+						{
+							"host": "x86_64-pc-linux-gnu",
+							"archiveFileName": "micronucleus.tar.gz",
+							"url": "https://github.com/Ignat99/Arduino_configurations/raw/master/micronucleus.tar.gz",
+							"checksum": "SHA-256:32f0fe8bc4c9676df825b1dcf7e0ba4628def44752b509d2c1274b9961ed995b",
+							"size": "15017380"
+						}
+						{
+							"host": "i686-pc-linux-gnu",
+							"archiveFileName": "micronucleus.tar.gz",
+							"url": "https://github.com/Ignat99/Arduino_configurations/raw/master/micronucleus.tar.gz",
+							"checksum": "SHA-256:32f0fe8bc4c9676df825b1dcf7e0ba4628def44752b509d2c1274b9961ed995b",
+							"size": "15017380"
+						}
 					]
 				}
 			]
