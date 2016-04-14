@@ -173,7 +173,7 @@
 				},
 
 				{
-					"name": "Olimex boards",
+					"name": "Olimex AVR boards",
 					"architecture": "avr",
 					"version": "1.2.2",
 					"category": "Contributed",
@@ -211,6 +211,38 @@
 							"version": "1.0.0"
 						}
 					]
+				},
+				
+				{
+					"name": "Olimex STM32 boards",
+					"architecture": "arm",
+					"version": "1.0.0",
+					"category": "Contributed",
+					"help":
+					{
+						"online": "http://www.stm32duino.com/"
+					},
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex_STM32-1.0.0.zip",
+					"archiveFileName": "Olimex_STM32-1.0.0.zip",
+					"checksum": "SHA-256:865205f21e8a66234ea237d4cf9f77e4630f78c2c4e84d7c5d90172b7f0427d2",
+					"size": "370569",
+					"boards":
+					[
+						{"name": "STM32-E407"}
+					],
+					"toolsDependencies":
+					[
+						{
+							"packager": "arduino",
+							"name": "arm-none-eabi-gcc",
+							"version": "4.8.3-2014q1"
+						},
+						{
+							"packager": "Olimex",
+							"name": "stm32-upload",
+							"version": "1.0.0"
+						}
+					]
 				}
 			],
 
@@ -227,6 +259,20 @@
 							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/micronucleus.zip",
 							"checksum": "SHA-256:4ed242d2d3dfbee0c511ef8581d0a56fb613d36f5f1a16e9227e0ea891c9fffb",
 							"size": "397301"
+						}
+					]
+				},
+				{
+					"name": "stm32-upload",
+					"version": "1.0.0",
+					"systems":
+					[
+						{
+							"host": "i686-mingw32",
+							"archiveFileName": "stm32-upload.zip",
+							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/stm32-upload.zip",
+							"checksum": "SHA-256:d2cc51bdda70d7b90a69de9a729b639c1831a4876550662ae5a6b6bfaec73c20",
+							"size": "2553406"
 						}
 					]
 				}
