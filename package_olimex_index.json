@@ -13,7 +13,7 @@
 			"platforms":
 			[
 				{
-					"name": "Olimex boards",
+					"name": "Olimex AVR boards",
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
@@ -52,7 +52,7 @@
 				},
 				
 				{
-					"name": "Olimex boards",
+					"name": "Olimex AVR boards",
 					"architecture": "avr",
 					"version": "1.1.0",
 					"category": "Contributed",
@@ -92,7 +92,7 @@
 				},
 				
 				{
-					"name": "Olimex boards",
+					"name": "Olimex AVR boards",
 					"architecture": "avr",
 					"version": "1.1.1",
 					"category": "Contributed",
@@ -132,7 +132,7 @@
 				},
 
 				{
-					"name": "Olimex boards",
+					"name": "Olimex AVR boards",
 					"architecture": "avr",
 					"version": "1.2.1",
 					"category": "Contributed",
@@ -208,38 +208,6 @@
 						{
 							"packager": "Olimex",
 							"name": "micronucleus",
-							"version": "1.0.0"
-						}
-					]
-				},
-				
-				{
-					"name": "Olimex STM32 boards",
-					"architecture": "arm",
-					"version": "1.0.0",
-					"category": "Contributed",
-					"help":
-					{
-						"online": "http://www.stm32duino.com/"
-					},
-					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex_STM32-1.0.0.zip",
-					"archiveFileName": "Olimex_STM32-1.0.0.zip",
-					"checksum": "SHA-256:865205f21e8a66234ea237d4cf9f77e4630f78c2c4e84d7c5d90172b7f0427d2",
-					"size": "370569",
-					"boards":
-					[
-						{"name": "STM32-E407"}
-					],
-					"toolsDependencies":
-					[
-						{
-							"packager": "arduino",
-							"name": "arm-none-eabi-gcc",
-							"version": "4.8.3-2014q1"
-						},
-						{
-							"packager": "Olimex",
-							"name": "stm32-upload",
 							"version": "1.0.0"
 						}
 					]

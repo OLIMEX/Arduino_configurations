@@ -19,7 +19,7 @@
 					"category": "Contributed",
 					"help":
 					{
-						"online": "https://www.olimex.com/forum/index.php?board=5.0"
+						"online": "http://www.stm32duino.com/"
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex_STM32-1.0.0.zip",
 					"archiveFileName": "Olimex_STM32-1.0.0.zip",
