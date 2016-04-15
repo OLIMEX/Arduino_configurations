@@ -14,17 +14,17 @@
 			[
 				{
 					"name": "Olimex STM32 boards",
-					"architecture": "arm",
+					"architecture": "stm",
 					"version": "1.0.0",
 					"category": "Contributed",
 					"help":
 					{
-						"online": "http://www.stm32duino.com/"
+						"online": "https://www.olimex.com/forum/index.php?board=5.0"
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex_STM32-1.0.0.zip",
 					"archiveFileName": "Olimex_STM32-1.0.0.zip",
-					"checksum": "SHA-256:865205f21e8a66234ea237d4cf9f77e4630f78c2c4e84d7c5d90172b7f0427d2",
-					"size": "370569",
+					"checksum": "SHA-256:ac7b06c3ed7b9376c93d00a7bcbd56061cd34bd12b2006033639ef69f85801fb",
+					"size": "370625",
 					"boards":
 					[
 						{"name": "STM32-E407"}

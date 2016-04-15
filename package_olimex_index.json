@@ -13,7 +13,7 @@
 			"platforms":
 			[
 				{
-					"name": "Olimex AVR boards",
+					"name": "Olimex boards",
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
@@ -52,7 +52,7 @@
 				},
 				
 				{
-					"name": "Olimex AVR boards",
+					"name": "Olimex boards",
 					"architecture": "avr",
 					"version": "1.1.0",
 					"category": "Contributed",
@@ -92,7 +92,7 @@
 				},
 				
 				{
-					"name": "Olimex AVR boards",
+					"name": "Olimex boards",
 					"architecture": "avr",
 					"version": "1.1.1",
 					"category": "Contributed",
@@ -132,7 +132,7 @@
 				},
 
 				{
-					"name": "Olimex AVR boards",
+					"name": "Olimex boards",
 					"architecture": "avr",
 					"version": "1.2.1",
 					"category": "Contributed",
@@ -173,7 +173,7 @@
 				},
 
 				{
-					"name": "Olimex AVR boards",
+					"name": "Olimex boards",
 					"architecture": "avr",
 					"version": "1.2.2",
 					"category": "Contributed",
@@ -185,6 +185,47 @@
 					"archiveFileName": "Olimex-1.2.2.zip",
 					"checksum": "SHA-256:4c734d39a7be0862c97c9b275d8fa1f7ade31280e99ea4549cbe18475f392005",
 					"size": "299280",
+					"boards":
+					[
+						{"name": "Olimexino-328"},
+						{"name": "Olimexino-32U4"},
+						{"name": "Olimexino-Nano"},
+						{"name": "Olimexino-85"},
+						{"name": "RGB-Glasses"}
+					],
+					"toolsDependencies":
+					[
+						{
+							"packager": "arduino",
+							"name": "avr-gcc",
+							"version": "4.8.1-arduino5"
+						},
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.0.1-arduino5"
+						},
+						{
+							"packager": "Olimex",
+							"name": "micronucleus",
+							"version": "1.0.0"
+						}
+					]
+				},
+
+				{
+					"name": "Olimex AVR boards",
+					"architecture": "avr",
+					"version": "1.3.2",
+					"category": "Contributed",
+					"help":
+					{
+						"online": "https://www.olimex.com/forum/index.php?board=5.0"
+					},
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex-1.3.2.zip",
+					"archiveFileName": "Olimex-1.3.2.zip",
+					"checksum": "SHA-256:56b53be637d694a072eba3a261b21ca951e25299ac4d0b124f42a7ea157b9a4b",
+					"size": "299946",
 					"boards":
 					[
 						{"name": "Olimexino-328"},
@@ -227,20 +268,6 @@
 							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/micronucleus.zip",
 							"checksum": "SHA-256:4ed242d2d3dfbee0c511ef8581d0a56fb613d36f5f1a16e9227e0ea891c9fffb",
 							"size": "397301"
-						}
-					]
-				},
-				{
-					"name": "stm32-upload",
-					"version": "1.0.0",
-					"systems":
-					[
-						{
-							"host": "i686-mingw32",
-							"archiveFileName": "stm32-upload.zip",
-							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/stm32-upload.zip",
-							"checksum": "SHA-256:d2cc51bdda70d7b90a69de9a729b639c1831a4876550662ae5a6b6bfaec73c20",
-							"size": "2553406"
 						}
 					]
 				}
