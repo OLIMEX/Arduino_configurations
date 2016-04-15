@@ -23,8 +23,8 @@
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex_STM32-1.0.0.zip",
 					"archiveFileName": "Olimex_STM32-1.0.0.zip",
-					"checksum": "SHA-256:ac7b06c3ed7b9376c93d00a7bcbd56061cd34bd12b2006033639ef69f85801fb",
-					"size": "370625",
+					"checksum": "SHA-256:bae194081fb2f91f4905acebf4bba1ba6de1e982c63757ab120013f41d33b1b8",
+					"size": "372380",
 					"boards":
 					[
 						{"name": "STM32-E407"}
