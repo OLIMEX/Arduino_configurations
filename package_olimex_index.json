@@ -265,8 +265,8 @@
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/Olimex-1.3.3.zip",
 					"archiveFileName": "Olimex-1.3.3.zip",
-					"checksum": "SHA-256:f2ef68c4d968dddf08251e7fe41edf333f376df60374fe36bd1e92c85185a7d8",
-					"size": "310225",
+					"checksum": "SHA-256:d89a334c1fcdd67517779f0b4bfb46e4af4c3f1f9feac656ffbcaa2840f7e284",
+					"size": "310222",
 					"boards":
 					[
 						{"name": "Olimexino-328"},
