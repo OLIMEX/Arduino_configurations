@@ -55,7 +55,7 @@
 						{
 							"host": "i686-mingw32",
 							"archiveFileName": "stm32-upload.zip",
-							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/STM/Versions/stm32-upload.zip",
+							"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/STM/Tools/stm32-upload.zip",
 							"checksum": "SHA-256:d2cc51bdda70d7b90a69de9a729b639c1831a4876550662ae5a6b6bfaec73c20",
 							"size": "2553406"
 						}
