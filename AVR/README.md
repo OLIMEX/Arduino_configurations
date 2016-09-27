@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+1.3.7 - 2016/09/27  
+Small fix in some of the libraries.  
+  
+  
 1.3.6 - 2016/07/08  
 Renamed the I2C library "TinyWireM" to "_TinyWireM" with the purpose to avoid duplication of the names between the original Adafruit library and the customized one for the Olimexino-85 examples.  
   

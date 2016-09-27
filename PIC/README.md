@@ -8,6 +8,10 @@ This folder contains:
 Log:  
   
   
+1.0.1 - 2016/07/08  
+Added libraries for SHIELD-LCD16X2 and MOD-IO2. Also added example for Pinguino with MOD-SDMMC (using the default SD library).  
+  
+  
 1.0.0 - 2016/07/08  
 Initial release based on the package of ChipKIT. Supported boards: PIC32-Pinguino; PIC32-Pinguino-OTG; PIC32-Pinguino-Micro; PIC32-T795H; DuinoMite-Mega; DuinoMite-eMega.  
   
