@@ -12,13 +12,19 @@
 
   https://raw.githubusercontent.com/chipKIT32/chipKIT-core/master/package_chipkit_index.json
 
-5. At this point navigate to Tools –> Board... –> Boards Manager... and find “Olimex PIC boards” package and install it. This takes some time since the compiler is > 200 MB of size.
+  It should look like this:
 
-  There is no need to install the chip board package – you just need to load it; but if you install this will not be a problem (it doesn’t interfere with our json).
+  ![Preferences](https://raw.githubusercontent.com/OLIMEX/Arduino_configurations/master/PIC/Images/2.png)
 
-4. Load blinking LED example, select your PINGUINO board and test compiling the example.
+5. At this point navigate to Tools –> Board... –> Boards Manager... and find “Olimex PIC boards” package and install it. This takes some time since the compiler is > 200 MB of size. It should look like this:
 
-5. To upload the code to the PINGUINO board remember to enter bootloader mode! Press and hold the user button, press and release the reset button, release the user button! 
+  ![Package installation](https://raw.githubusercontent.com/OLIMEX/Arduino_configurations/master/PIC/Images/4.png)
+
+  There is no need to install the chipKIT board package – you just need to load it; but if you install this will not be a problem (it doesn’t interfere with our json).
+
+6. Load blinking LED example, select your PINGUINO board and test compiling the example.
+
+7. To upload the code to the PINGUINO board remember to enter bootloader mode! Press and hold the user button, press and release the reset button, release the user button! 
 
 
 ## This repsitory contains:
@@ -27,7 +33,9 @@
   
   2. Folder "Versions" - the folder contains stored legacy versions of the package as well as the latest one.
   
-  3. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
+  3. Folder "Images" - contains images that show some of the steps required to configure Arduino IDE for PIC32-PINGUINO-OTG board
+  
+  4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
   
