@@ -38,7 +38,10 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
-  
+  1.1.0 - 2017/06/01
+  Added support for PIC32-Pinguino-MX270.
+  Added library for LED_Cube.
+
   1.0.1 - 2016/07/08
   Added libraries for SHIELD-LCD16X2 and MOD-IO2. Also added example for PINGUINO with MOD-SDMMC (using the default SD library).  
   
