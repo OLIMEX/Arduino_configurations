@@ -38,6 +38,9 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
+  1.1.1 - 2017/06/19
+  Small bugfix for the missing upload tool for boards: Pinguino-OTG, Pinguino-Micro, Pinguino-T795H, DuinoMite-Mega, DuinoMite-eMega
+  
   1.1.0 - 2017/06/01
   Added support for PIC32-Pinguino-MX270.
   Added library for LED_Cube.
