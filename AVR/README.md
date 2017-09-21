@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+1.4.0 - 2017/09/21  
+Micronuclues uploader replaced with the original one of Digistump so it support Linux OS as well.  
+
+
 1.3.7 - 2016/09/27  
 Small fix in some of the libraries.  
   
