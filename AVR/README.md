@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+1.4.1 - 2017/09/21  
+Uploaded new library for MOD-LCD1x9 that works properly with Olimexino-328, Olimexino-32U4 and Olimexino-Nano with hardware I2C (Wire library) instead of software I2C as it was until now.  
+
+
 1.4.0 - 2017/09/21  
 Micronuclues uploader replaced with the original one of Digistump so it support Linux OS as well.  
 
