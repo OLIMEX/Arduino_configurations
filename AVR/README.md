@@ -7,7 +7,11 @@ This folder contains:
 
 Log:  
 
-1.4.1 - 2017/09/21  
+1.4.2 - 2017/11/13  
+Shield-LCD2X16 examples are updated. UART_LCD and UART_GPIO can be uploaded to Olimexino-328 and Olimexino-32U4 (instead of only Olimexino-328).  
+
+
+1.4.1 - 2017/11/07  
 Uploaded new library for MOD-LCD1x9 that works properly with Olimexino-328, Olimexino-32U4 and Olimexino-Nano with hardware I2C (Wire library) instead of software I2C as it was until now.  
 
 
