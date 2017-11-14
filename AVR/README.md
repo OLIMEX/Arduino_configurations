@@ -7,8 +7,9 @@ This folder contains:
 
 Log:  
 
-1.4.2 - 2017/11/13  
+1.4.2 - 2017/11/14  
 Shield-LCD2X16 examples are updated. UART_LCD and UART_GPIO can be uploaded to Olimexino-328 and Olimexino-32U4 (instead of only Olimexino-328).  
+Added the LCD1x9 library for Olimexino-85 (it was removed in the previous version).  
 
 
 1.4.1 - 2017/11/07  
