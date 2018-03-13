@@ -33,7 +33,7 @@
 
 ## This repsitory contains:
 
-  1. Folder "Bootloaders" - Binaries with bootloaders compatible with Arduino IDE for the different PIC32 supported boards. These bootloaders have to be uploaded via an external PIC32-compatible programmer.
+  1. Folder "Bootloaders" - Binaries with bootloaders compatible with Arduino IDE for the different PIC32 supported boards. These       bootloaders have to be uploaded via an external PIC32-compatible programmer. The folder also contains drivers for Windows, compatible with the ChipKIT bootloader.
   
   2. Folder "Versions" - the folder contains stored legacy versions of the package as well as the latest one.
   
