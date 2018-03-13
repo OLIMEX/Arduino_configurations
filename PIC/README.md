@@ -4,9 +4,9 @@
 
 2. An example for PIC32-comaptible programmer is PIC-KIT3. Note that PINGUINO boards typically have the small 0.05" step connector for programming. Consider the PIC-ICSP adapter to make the connection easier. You don't need to purchase any software since Microchip provides free software solution that allows uploading a binary to a target.
 
-3. After you have programmed the board with the binary, connect the board via the USB to the computer - place it in bootloader mode and check if the board is properly recognzied in "Windows Device Manger". To enter bootloader mode: press and hold the user button, press the reset button, release the user button (or press and hold the user button, apply the mini USB, release the user button). 
+3. After you have programmed the board with the binary, connect the board via the USB to the computer - place it in bootloader mode and check if the board is properly recognized in "Windows Device Manger". To enter bootloader mode: press and hold the user button, press the reset button, release the user button (or press and hold the user button, apply the mini USB, release the user button). 
 
-4. If the board is unrecogznied in the "Windows Device Manager", when placed in bootloader mode, then you need to install drivers. These can be found in the following archive: https://github.com/OLIMEX/Arduino_configurations/raw/master/PIC/Bootloaders/PIC32-Pinguino-MX270_chipKITDriverInstaller_v10.zip 
+4. If the board is unrecognized in the "Windows Device Manager", when placed in bootloader mode, then you need to install drivers. These can be found in the following archive: https://github.com/OLIMEX/Arduino_configurations/raw/master/PIC/Bootloaders/PIC32-Pinguino-MX270_chipKITDriverInstaller_v10.zip 
 
 5. Download the newest Arduino IDE (since there are frequent changes in the additional board support package part)
 
