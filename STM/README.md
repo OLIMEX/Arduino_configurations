@@ -7,6 +7,9 @@ This folder contains:
   
 Log:  
   
+1.0.1 - 2018/03/23  
+STM32-H407 added to the list of supported boards.  
+
   
 1.0.0 - 2016/04/15  
 Initial package. Supported board - STM32-E407 with GPIO (LED and button) examples. Limited software support for STM32F4xx at this stage.  
