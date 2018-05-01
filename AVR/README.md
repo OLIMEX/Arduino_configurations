@@ -7,19 +7,28 @@ This folder contains:
 
 Log:  
 
+1.4.4 - 2018/05/01  
+Added example for Olimexino-328 and Shield-EKG/EMG inside the package.  
+  
+  
+1.4.3 - 2018/04/13  
+Added example for Olimexino-328, ADS1220 and weight measure sensor.
+Added ADS1262 library and example based on the library of VenkateshBhat.  
+  
+  
 1.4.2 - 2017/11/14  
 Shield-LCD2X16 examples are updated. UART_LCD and UART_GPIO can be uploaded to Olimexino-328 and Olimexino-32U4 (instead of only Olimexino-328).  
 Added the LCD1x9 library for Olimexino-85 (it was removed in the previous version).  
-
-
+  
+  
 1.4.1 - 2017/11/07  
 Uploaded new library for MOD-LCD1x9 that works properly with Olimexino-328, Olimexino-32U4 and Olimexino-Nano with hardware I2C (Wire library) instead of software I2C as it was until now.  
-
-
+  
+  
 1.4.0 - 2017/09/21  
 Micronuclues uploader replaced with the original one of Digistump so it support Linux OS as well.  
-
-
+  
+  
 1.3.7 - 2016/09/27  
 Small fix in some of the libraries.  
   
