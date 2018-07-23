@@ -42,6 +42,11 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
+  1.2.0 - 2018/07/23
+  Added support for Olimex board ESP32-PRO.
+  Fixed bug with additional UARTs on PIC32-Pinguino-MX270.
+  Updated the core files from the chipKIT latest version.
+  
   1.1.1 - 2017/06/19
   Small bugfix for the missing upload tool for boards: Pinguino-OTG, Pinguino-Micro, Pinguino-T795H, DuinoMite-Mega, DuinoMite-eMega
   
