@@ -237,7 +237,7 @@
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/PIC/Versions/Olimex_PIC-1.2.1.zip",
 					"archiveFileName": "Olimex_PIC-1.2.1.zip",
-					"checksum": "SHA-256:9761b662f23534958521a8b70987384d9e06d2a84a49c217f3f19ab756ac527a",
+					"checksum": "SHA-256:7f66b22bce9dfc18bd823e0db6efa4baada952add59f9b03578c31e1f40e680f",
 					"size": "1605632",
 					"boards":
 					[
