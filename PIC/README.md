@@ -42,6 +42,11 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
+  1.2.1 - 2018/08/02
+  Fixed bug with inexisting register structure member in WSystem.c.
+  Added serial-to-usb converter sketch for ESP32-PRO (ESP module).
+  Added bootloader for ESP32-PRO.
+  
   1.2.0 - 2018/07/23
   Added support for Olimex board ESP32-PRO.
   Fixed bug with additional UARTs on PIC32-Pinguino-MX270.

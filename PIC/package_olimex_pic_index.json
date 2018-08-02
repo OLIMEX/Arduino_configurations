@@ -237,8 +237,8 @@
 					},
 					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/PIC/Versions/Olimex_PIC-1.2.1.zip",
 					"archiveFileName": "Olimex_PIC-1.2.1.zip",
-					"checksum": "SHA-256:a9fa9a5943193494f07f726b2964dbd0064da803cc7f59ca6e18e17ce800fb52",
-					"size": "1601536",
+					"checksum": "SHA-256:9761b662f23534958521a8b70987384d9e06d2a84a49c217f3f19ab756ac527a",
+					"size": "1605632",
 					"boards":
 					[
 						{"name": "PIC32-Pinguino"},
