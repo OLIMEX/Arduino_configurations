@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+1.4.5 - 2018/11/21  
+Added example for Olimexino-328 and MOD-RTC2 inside the package.  
+  
+  
 1.4.4 - 2018/05/01  
 Added example for Olimexino-328 and Shield-EKG/EMG inside the package.  
   
