@@ -7,6 +7,13 @@ This folder contains:
 
 Log:  
 
+2.0.0 - 2019/01/10  
+This version is recommended with Arduino 1.8.8 or newer due to some issues with the new compiler on older versions: https://github.com/arduino/Arduino/issues/7949.  
+Updated AVR-GCC compiler (5.4.0-atmel3.6.1-arduino2) and AVRdude uploader (6.3.0-arduino14) with the latest for the moment.  
+Changed some flags and options into platform.txt.  
+Added support and example sketches for Olimex board eduArdu.  
+  
+  
 1.4.5 - 2018/11/21  
 Added example for Olimexino-328 and MOD-RTC2 inside the package.  
   
