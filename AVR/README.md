@@ -7,6 +7,12 @@ This folder contains:
 
 Log:  
 
+2.0.1 - 2019/03/22  
+Updated MOD-LED8x8 matrix library.  
+Added functions for drawing a line and reading the value of the LEDs.  
+Added example for reading the whole matrix.  
+  
+  
 2.0.0 - 2019/01/10  
 This version is recommended with Arduino 1.8.8 or newer due to some issues with the new compiler on older versions: https://github.com/arduino/Arduino/issues/7949.  
 Updated AVR-GCC compiler (5.4.0-atmel3.6.1-arduino2) and AVRdude uploader (6.3.0-arduino14) with the latest for the moment.  
