@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+2.0.2 - 2019/06/24  
+Added support for Olimexino-2560.  
+  
+  
 2.0.1 - 2019/03/22  
 Updated MOD-LED8x8 matrix library.  
 Added functions for drawing a line and reading the value of the LEDs.  
