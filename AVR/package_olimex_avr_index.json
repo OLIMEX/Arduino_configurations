@@ -768,8 +768,8 @@
 						{"name": "Olimexino-328"},
 						{"name": "Olimexino-Nano"},
 						{"name": "Olimexino-85"},
-						{"name": "RGB-Glasses"}
-						{"name": "Olimexino-2560"},
+						{"name": "RGB-Glasses"},
+						{"name": "Olimexino-2560"}
 					],
 					"toolsDependencies":
 					[
