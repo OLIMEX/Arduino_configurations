@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+2.1.0 - 2020/03/04  
+Added support for MOD-ENV which is based on two Adafruit library examples.  
+  
+  
 2.0.2 - 2019/06/24  
 Added support for Olimexino-2560.  
   
