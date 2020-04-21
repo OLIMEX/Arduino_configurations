@@ -42,6 +42,9 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
+  1.2.4 - 2020/04/21
+  Fixed issue suggested by vicpino for the wrong definitions of D8 and D9 on Pinguino-OTG.
+    
   1.2.3 - 2019/01/17
   Fixed issue suggested by vicpino for the wrong definitions of A6 and A7 on Pinguino and Pinguino-OTG.
     
