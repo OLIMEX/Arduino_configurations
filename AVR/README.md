@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+2.1.1 - 2020/10/16  
+Added UEXT_SS macros for Olimexino-328/32u4/Nano to distinguish the original Slave select from the one on the UEXT.  
+  
+  
 2.1.0 - 2020/03/04  
 Added support for MOD-ENV which is based on two Adafruit library examples.  
   
