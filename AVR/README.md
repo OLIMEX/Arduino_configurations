@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+2.1.2 - 2020/12/17  
+Added MOD-IO library.  
+  
+  
 2.1.1 - 2020/10/16  
 Added UEXT_SS macros for Olimexino-328/32u4/Nano to distinguish the original Slave select from the one on the UEXT.  
   
