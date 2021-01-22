@@ -7,6 +7,11 @@ This folder contains:
 
 Log:  
 
+2.1.3 - 2021/01/22  
+Shield-EKG/EMG example move from Olimexino-328 to the general examples folder since it works with 32U4 and 2560 too.  
+"Olimexino_2560" renamed to "Olimexino-2560" to be the same like the other boards.  
+  
+  
 2.1.2 - 2020/12/17  
 Added MOD-IO library.  
   
