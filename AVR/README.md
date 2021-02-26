@@ -7,6 +7,10 @@ This folder contains:
 
 Log:  
 
+2.1.4 - 2021/02/26  
+Added example for MOD-RTC2.8RTP with ESP32-EVB, ESP32-PoE(-ISO), Olimexino-2560, Olimexino-STM32F3.  
+  
+  
 2.1.3 - 2021/01/22  
 Shield-EKG/EMG example move from Olimexino-328 to the general examples folder since it works with 32U4 and 2560 too.  
 "Olimexino_2560" renamed to "Olimexino-2560" to be the same like the other boards.  
