@@ -400,6 +400,50 @@
 							"name": "drivers-windows"
 						}
 					]
+				},
+				
+				{
+					"name": "Olimex PIC boards",
+					"architecture": "pic",
+					"version": "1.2.5",
+					"category": "Contributed",
+					"help":
+					{
+						"online": "https://www.olimex.com/forum/index.php?board=5.0"
+					},
+					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/PIC/Versions/Olimex_PIC-1.2.5.zip",
+					"archiveFileName": "Olimex_PIC-1.2.5.zip",
+					"checksum": "SHA-256:af101de282ee1eb4e7ee674d6bbfc83ed8ada2a72b2cca8330fa095f66cf8d92",
+					"size": "1602189",
+					"boards":
+					[
+						{"name": "PIC32-Pinguino"},
+						{"name": "PIC32-Pinguino-OTG"},
+						{"name": "PIC32-Pinguino-MX270"},
+						{"name": "PIC32-Pinguino-Micro"},
+						{"name": "PIC32-T795"},
+						{"name": "DuinoMite-Mega"},
+						{"name": "DuinoMite-eMega"},
+						{"name": "ESP32-PRO"}
+					],
+					"toolsDependencies":
+					[
+						{
+							"packager": "chipKIT",
+							"version": "4.8.3-pic32gcc",
+							"name": "pic32-tools"
+						},
+						{
+							"packager": "chipKIT",
+							"version": "v2.0.224-pic32gcc",
+							"name": "pic32prog"
+						},
+						{
+							"packager": "chipKIT",
+							"version": "v2",
+							"name": "drivers-windows"
+						}
+					]
 				}
 			],
 			"tools":
