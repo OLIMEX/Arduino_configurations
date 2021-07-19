@@ -7,6 +7,9 @@ This folder contains:
 
 Log:  
 
+2.1.5 - 2021/07/19  
+Fixed LED_BUILTIN macro for eduArdu from 13 to 12 to match the schematic numeration.  
+
 2.1.4 - 2021/02/26  
 Added example for MOD-RTC2.8RTP with ESP32-EVB, ESP32-PoE(-ISO), Olimexino-2560, Olimexino-STM32F3.  
   
