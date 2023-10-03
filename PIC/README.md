@@ -42,6 +42,9 @@
   4. File "package_olimex_avr_index.json" - the file which describes the whole package. The link to the file must be added inside File -> Preferences in Arduino IDE to install the package.
 
   Change log:  
+  1.2.7 - 2023/10/03
+  Changed the macros in "cores\pic32\pins_arduino.h" for digitalPinToAnalog (lines 244 & 248) and analogInPinToChannel (lines 254 & 258) to match the actual mapping represented as an array for the specific board.
+    
   1.2.6 - 2023/01/27
   Added SD card chip select as a data pin and made a macro SD_CS with the respective pin on the boards PIC32-Pinguino-Micro, PIC32-Pinguino-OTG, DuinoMite-Mega and DuinoMite-eMega.
   Updated SD card examples to not show card size in bytes to avoid overflows and added waiting for the serial to be ready.
